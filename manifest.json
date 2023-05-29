@@ -32,6 +32,12 @@
                 "type": "domain"
             },
             {
+                "name": "path",
+                "type": "path",
+                "example": "/wgui",
+                "default": "/wgui"
+            },
+            {
                 "name": "admin",
                 "type": "user"
             }
